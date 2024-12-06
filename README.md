@@ -1,4 +1,4 @@
-# VideoTapeStore
+# SenlesSoneSero
 
 A new Flutter project.
 
@@ -17,7 +17,7 @@ A new Flutter project.
 
 ## About the Project
 
-The VideoTapeStore is a Flutter application that serves as a starting point for building a video tape store management system. This project helps you get started with Flutter development.
+The Senles Sone Sero is a Flutter application that serves as a starting point for building a video tape store management system. This project helps you get started with Flutter development.
 
 ## Getting Started
 
